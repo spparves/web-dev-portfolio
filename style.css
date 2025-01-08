@@ -1,0 +1,45 @@
+
+
+.open-sans-normal{
+    font-family: "Open Sans", serif;
+    font-optical-sizing: auto;
+    font-weight: 
+    font-style: 
+    font-variation-settings:
+      "wdth" 100;
+  }
+  
+
+.text-primary{
+    color: #FD6E0A;
+}
+.dark-2{
+    color: #474747;
+}
+
+/* nav style */
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 50px 200px;
+}
+.nav-title{
+    font-weight: 800;
+    font-size: 45px;
+}
+
+nav ul li{
+    list-style: none;
+    margin-right: 51px;
+
+}
+
+nav ul{
+    display: flex;
+}
+
+nav a{
+    text-decoration: none;
+    font-size: 20px;
+}
